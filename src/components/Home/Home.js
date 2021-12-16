@@ -1,7 +1,6 @@
 import * as React from 'react';
 import AppBar from '@mui/material/AppBar';
 import Button from '@mui/material/Button';
-import CameraIcon from '@mui/icons-material/PhotoCamera';
 import HomeIcon from '@mui/icons-material/Home';
 import Card from '@mui/material/Card';
 import CardActions from '@mui/material/CardActions';
