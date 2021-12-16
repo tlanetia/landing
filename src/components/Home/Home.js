@@ -54,7 +54,7 @@ export default function Home() {
             pb: 6,
           }}
         >
-          <Container maxWidth="sm">
+          <Container maxWidth="md">
             <Typography
               component="h1"
               variant="h2"
@@ -64,10 +64,8 @@ export default function Home() {
             >
               Welcome to Tlanetia
             </Typography>
-            <Typography variant="h5" align="center" color="text.secondary" paragraph>
-              Something short and leading about the collection below—its contents,
-              the creator, etc. Make it short and sweet, but not too short so folks
-              don&apos;t simply skip over it entirely.
+            <Typography variant="h5" align="justify" color="text.secondary" paragraph>
+              We offer financial empowerment for women in Latin America through a financial literacy framework and a technological platform that encourages communities of women to learn about finances, support each other’s projects and businesses, and to become financially independent.
             </Typography>
             <Stack
               sx={{ pt: 4 }}
